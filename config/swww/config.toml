@@ -1,0 +1,9 @@
+[settings]
+theme = "latte"
+image = ""
+
+[themes]
+    [themes.latte]
+    path = "~/.config/swww/Catppuccin-Latte"
+    [themes.mocha]
+    path = "~/.config/swww/Catppuccin-Mocha"
